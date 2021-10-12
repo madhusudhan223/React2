@@ -1,0 +1,10 @@
+.tableheader {
+  display: flex;
+  justify-content: space-between;
+  flex: 2;
+}
+.tablebody {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}

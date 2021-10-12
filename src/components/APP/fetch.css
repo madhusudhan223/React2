@@ -1,0 +1,14 @@
+body {
+  margin: 20px;
+}
+.table-header {
+  display: flex;
+  column-gap: 100px;
+  font-weight: 500;
+}
+.table-body {
+  column-gap: 100px;
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+}
